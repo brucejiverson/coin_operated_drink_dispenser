@@ -9,6 +9,13 @@ Raspberry pi
 - a little harder to set up and program
 - enables lots of future functionality
 
+Arduino
+- Easier to set up. Cheaper. Selected for desired development speed.
+
+**Power Requirements**
+Sensors and arduino will be negligible compared to 
+
+
 **First steps**
 - figure out the motor electrical interface, ie driver + power
 - find out if I have a sensor and if not get some. Also: how thick are the dubloons?
